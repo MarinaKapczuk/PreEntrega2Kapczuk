@@ -38,8 +38,6 @@
 body{
     font-family: "Nunito";
     font-weight: 200;
-    padding: 20px 0px;
-    background-color: black;
 }
 .navigation__link{
     display: flex;
