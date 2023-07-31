@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "Nunito";
+    src: url(../assets/fonts/NunitoSans_7pt-ExtraLight.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: "Nunito";
+    src: url(../assets/fonts/NunitoSans_7pt-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Nunito";
+    src: url(../assets/fonts/NunitoSans_7pt-SemiBold.ttf);
+    font-weight: 600;
+}
+@media (max-width: 320px){
+    .headerOne{
+        flex-direction: column;
+        align-items: center;
+    }
+    .flexBoxIndex{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (max-width: 412px){
+    .headerOne{
+        flex-direction: column;
+        align-items: center;
+    }
+    .flexBoxIndex{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+body{
+    font-family: "Nunito";
+    font-weight: 200;
+    padding: 20px 0px;
+    background-color: black;
+}
+.headerOne{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 30px;
+}
+.headerOne a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.footerOne{
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+}
+.titleIndex{
+    text-align: center;
+    color: #D470FF;
+}
+.flexBoxIndex{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0;
+    border-top: white solid;
+    border-bottom: white solid;
+}
+.aboutMe{
+    color: white;
+    font-weight: 200;
+    text-align: center;
+    width: 309px;
+}
+.aboutMe p{  
+    font-weight: 200;
+}
+.aboutMe h2{
+    color: #D470FF;
+    text-align: center;
+}
