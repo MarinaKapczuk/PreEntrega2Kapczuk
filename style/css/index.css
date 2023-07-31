@@ -70,10 +70,7 @@ a:hover{
 }
 .aboutMe{
     color: white;
-    font-weight: 200;
     text-align: center;
     width: 309px;
-}
-.aboutMe p{  
-    font-weight: 200;
+    font-weight: 400;
 }
