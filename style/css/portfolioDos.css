@@ -57,8 +57,10 @@ a:hover{
     align-items: center;
     padding-bottom: 30px;
 }
-.banner h1{
+.titlePortTwo{
+    text-align: center;
     color: #D470FF;
+    padding-top: 30px;
 }
 .banner h2{
     color: #D470FF;

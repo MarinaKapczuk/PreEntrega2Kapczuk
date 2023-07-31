@@ -58,6 +58,8 @@ a:hover{
 .titleExp{
     text-align: center;
     color: #D470FF;
+    padding-top: 30px;
+
 }
 .flexBoxExp{
     display: flex;
