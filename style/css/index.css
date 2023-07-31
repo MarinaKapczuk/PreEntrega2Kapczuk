@@ -39,11 +39,12 @@ body{
     padding: 20px 0px;
     background-color: black;
 }
-.headerOne{
+.navigation__link{
+    display: flex;
     justify-content: space-evenly;
     padding-bottom: 30px;
 }
-.headerOne a{
+.navigation__link a{
     font-weight: bold;
     color: white;
 }
