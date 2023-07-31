@@ -77,19 +77,10 @@ a:hover{
 }
 .flexBoxSoftware{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     padding-top: 30px;
     text-align: center;
     font-weight: bold;
     border-top: white solid;
     border-bottom: white solid;
-}
-.figma{
-    padding-left: 30px;
-}
-.premiere{
-    padding-left: 30px;
-}
-.socialMedia{
-    padding-left: 30px;
 }
